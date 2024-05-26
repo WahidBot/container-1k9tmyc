@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "WahidBot",
+  "repo": "container-1k9tmyc",
+  "name": "WahidBot",
+  "email": "sate96665@gmail.com",
+}
